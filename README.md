@@ -24,13 +24,12 @@
         🔸 El archivo index.js se encarga de convertir los archivos a pdf <br>
         🔸 Los archivos se guardan en la carpeta output <br>
     </p>
-
-###
-> [IMPORTANTE!]
-> Es necesario que el usuario tenga instalado NodeJs en su sistema y descargue las dependencias
-correspondientes para que este proyecto funcione de forma correcta.
-
 </div>
+
+---
+
+> [!CAUTION]
+> Es necesario que el usuario tenga instalado NodeJs en su sistema y descargue las dependencias correspondientes para que este proyecto funcione de forma correcta.
 
 ---
 
