@@ -31,7 +31,7 @@
 
 <div id="capturas" align="center">
     <h3 align="left"> 📷 Capturas:</h3>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/ConvertToPDFNodeJs/img-01.png?raw=true" alt="Cap1" width="800">
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/ConvertToPDFNodeJs/img-01.png?raw=true" alt="Cap1" width="700">
     <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/ConvertToPDFNodeJs/img-02.png?raw=true" alt="Cap2" width="800">
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/ConvertToPDFNodeJs/img-02.png?raw=true" alt="Cap2" width="700">
 </div>
