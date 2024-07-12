@@ -23,7 +23,6 @@
         🔸 Ejecuta el archivo "Iniciar.bat" para iniciar la conversión <br>
         🔸 El archivo index.js se encarga de convertir los archivos a pdf <br>
         🔸 Los archivos se guardan en la carpeta output <br>
-
     </p>
 
 </div>
