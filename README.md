@@ -26,7 +26,8 @@
     </p>
 
     > [!CAUTION]
-    > Es necesario que el usuario tenga instalado NodeJs en su sistema y descarge las dependencias correspondientes para que este proyecto funcione de forma correcta.
+    > Es necesario que el usuario tenga instalado NodeJs en su sistema y descarge las dependencias
+    correspondientes para que este proyecto funcione de forma correcta.
 
 </div>
 
