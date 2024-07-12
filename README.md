@@ -25,6 +25,9 @@
         🔸 Los archivos se guardan en la carpeta output <br>
     </p>
 
+    > [!CAUTION]
+    > Es necesario que el usuario tenga instalado NodeJs en su sistema y descarge las dependencias correspondientes para que este proyecto funcione de forma correcta.
+
 </div>
 
 ---
