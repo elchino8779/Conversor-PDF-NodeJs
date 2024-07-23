@@ -3,8 +3,7 @@ Title ConvertToPDF-NodeJs
 color 30
 echo =======================================================
 echo =                                                     =
-echo =             Iniciando conversion de                 =
-echo =                  archivos a pdf                     =
+echo =          Conversion de archivos a pdf.              =
 echo =                                                     =
 echo =        Los archivos de la carpeta input se          =
 echo =   convertiran a archivos pdf en la carpeta output   =
@@ -15,7 +14,8 @@ timeout /t 15
 echo.
 echo =======================================================
 echo =                                                     =
-echo =       Iniciando conversion de archivos a pdf...     =
+echo =               Iniciando conversion.                 =
+echo =           Esto puede tardar un momento...           =
 echo =                                                     =
 echo =======================================================
 echo.
@@ -23,7 +23,7 @@ node index.js
 echo.
 echo Esperando a que finalicen todas las conversiones...
 echo.
-timeout /t 3
+timeout /t 5
 echo.
 echo =======================================================
 echo =                                                     =
